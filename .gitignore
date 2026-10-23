@@ -34,3 +34,5 @@ desktop.ini
 *.tmp
 *.bak
 *.swp
+
+data/raw/
