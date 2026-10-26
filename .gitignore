@@ -35,5 +35,5 @@ desktop.ini
 *.bak
 *.swp
 data/raw/
-data/processed/water_quality_diagnostic.csv
 scripts.zip
+data/processed/water_quality_diagnostic.csv
